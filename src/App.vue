@@ -1,11 +1,11 @@
 <script setup>
-import card from "./components/card.vue"
-import but from "./components/button.vue"
+import HeaderView from "./components/Header.vue"
 </script>
 
 <template>
-    <card />
-    <but />
+    <div class="container">
+        <HeaderView />
+    </div>
 </template>
 
 <style scoped>

@@ -2,15 +2,15 @@
 </script>
 
 <template>
-    <div>
-        <button class="but">123</button>
+    <div class="box2">
         
     </div>
 </template>
 
 <style>
-.but{
+.box2{
     width: 50px;
-    height: 30px;
+    height: 50px;
+    background-color: black;
 }
 </style>
