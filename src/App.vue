@@ -8,8 +8,6 @@ components:{
     return{
       A:1,
       temp:666
-    
-
     }
   },
   methods: {
